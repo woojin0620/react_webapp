@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bucks/static/css/main.fb706d10.css",
+    "main.js": "/bucks/static/js/main.0adbac1c.js",
+    "static/js/787.994511a4.chunk.js": "/bucks/static/js/787.994511a4.chunk.js",
+    "static/media/sblogo.png": "/bucks/static/media/sblogo.67b6964387d320b27caf.png",
+    "index.html": "/bucks/index.html",
+    "main.fb706d10.css.map": "/bucks/static/css/main.fb706d10.css.map",
+    "main.0adbac1c.js.map": "/bucks/static/js/main.0adbac1c.js.map",
+    "787.994511a4.chunk.js.map": "/bucks/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb706d10.css",
+    "static/js/main.0adbac1c.js"
+  ]
+}
