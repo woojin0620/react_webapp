@@ -1,0 +1,45 @@
+nav{
+    
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;    
+}
+.nav-link{
+    color: black !important; 
+    padding: 40px !important;
+    
+}
+#navToggler::before, #navToggler::after, span{
+    content: "";
+    background-color: black;
+    display: block;
+    width: 50px;
+    height: 2px;
+    margin: 6px 0;
+    padding: 2px;
+    transition: 0.3s;
+    
+}
+
+
+
+
+button#navToggler.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+#navToggler[data-state='true']:before{
+    transform : rotate(-45deg) translateY(7px);
+}
+
+#navToggler[data-state='true']:after{
+    transform: rotate(45deg) translateY(-14px) translateX(-8px);
+    
+}
+span[data-state='true']{
+    transform: rotate(45deg) translateY(-7px);
+}
+#gnb[data-open='true']{
+    display: block !important;
+    background-color: white;
+    
+}

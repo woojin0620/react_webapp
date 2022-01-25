@@ -1,0 +1,21 @@
+*{list-style: none;}
+
+dl{
+    background-color: rgb(214, 210, 210);
+    padding: 10px;
+    margin-top: 10% !important;
+}
+
+
+h2{
+    
+    font-weight: bold !important; 
+}
+
+h2 img{
+    height: 30px;
+}
+
+#gallery{
+    margin-top: 10%;
+}
